@@ -1,6 +1,6 @@
 # IBM Professional Certifications
 
-This repository contains a collection of professional certifications and badges earned during my tenure at IBM. These certificates showcase a variety of skills across different domains, including technical expertise, cybersecurity, inclusion, and more.
+This repository contains a collection of certifications and badges earned during my tenure at IBM. These certificates showcase a variety of skills across different domains.
 
 ## Certificates Overview
 
@@ -40,10 +40,4 @@ The certificates are organized into several categories, each reflecting a specif
 - **Angular and ASP NET - Certificate.pdf**
 - **Javascript Basics for Beginners - Certificate.pdf**
 
-## How to Use This Repository
-
 This repository serves as a digital portfolio of my professional growth and learning journey at IBM. Feel free to explore the certificates to gain insights into the diverse skills and knowledge areas I have developed.
-
-## Acknowledgements
-
-I would like to express my gratitude to IBM for providing these learning opportunities and to all the instructors and mentors who contributed to these courses.
